@@ -1,6 +1,14 @@
+<h1 align="left">Repos</h1>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mummyk/mummyk/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">My Social account</h2>
 
 ###
 
@@ -16,6 +24,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
@@ -142,6 +154,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
+
+###
+
+<h2 align="left">My Profile</h2>
 
 ###
 
